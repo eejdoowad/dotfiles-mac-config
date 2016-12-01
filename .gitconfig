@@ -1,0 +1,10 @@
+[user]
+	name = eejdoowad
+	email = eejdoowad@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = code --wait
+[diff]
+  tool = vscode-diff
+[difftool "vscode-diff"]
+  cmd = code --wait --diff $LOCAL $REMOTE

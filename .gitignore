@@ -1,0 +1,9 @@
+# This is the .gitignore for my mac dotfiles repo
+# Not the global .gitignore (which should be at ~/.gitignore_global)
+
+# ignore everything by default
+# you must add config files manually with
+# git add -f CONFIG_FILE_NAME
+
+
+*
